@@ -14,11 +14,11 @@ Fitur Utama
 
 Aplikasi ini menyediakan berbagai modul untuk mempermudah pekerjaan staf kepegawaian, di antaranya:
 
-* Dashboard -- Tampilan ringkasan data kepegawaian dan performa absensi secara visual.
-* Data Pegawai -- Manajemen data lengkap setiap pegawai.
-* Absensi Pegawai -- Pencatatan dan pemantauan absensi pegawai secara *real-time*.
-* Surat Menyurat -- Pembuatan surat tugas, surat cuti, dan surat keterangan secara otomatis.
-* Manajemen Master Data -- Pengelolaan data dasar seperti golongan, jabatan, dan status pegawai
+* Dashboard - Tampilan ringkasan data kepegawaian dan performa absensi secara visual.
+* Data Pegawai - Manajemen data lengkap setiap pegawai.
+* Absensi Pegawai - Pencatatan dan pemantauan absensi pegawai secara *real-time*.
+* Surat Menyurat - Pembuatan surat tugas, surat cuti, dan surat keterangan secara otomatis.
+* Manajemen Master Data - Pengelolaan data dasar seperti golongan, jabatan, dan status pegawai
   untuk memastikan data yang terstruktur.
 
 -----
