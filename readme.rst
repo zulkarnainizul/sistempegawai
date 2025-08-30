@@ -1,5 +1,5 @@
 ===================================================================================
-Sistem Informasi Kepegawaian SMK N 2 Pekanbaru
+Sistem Informasi Kepegawaian SMKN 2 Pekanbaru
 ===================================================================================
 
 Sistem ini adalah aplikasi berbasis web yang dirancang untuk mengelola data kepegawaian dan
